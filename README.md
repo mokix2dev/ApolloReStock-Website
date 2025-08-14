@@ -1,7 +1,7 @@
 # 🚀 Apollo Restock
 
 **Apollo Restock** is your ultimate destination for fast, safe, and affordable in-game spawner purchases — plus free giveaways and exclusive restoc.  
-https://mokix2dev.github.io/apollo-restock/
+https://mokix2dev.github.io/ApolloReStock-Website/
 ---
 
 ## ✨ Features
@@ -41,5 +41,6 @@ This work may not be copied, modified, or distributed without permission.
 ## 📬 Stay Connected
 
 - **Discord:** [https://discord.gg/hqddNfuPbr]
+- **Website** [https://mokix2dev.github.io/ApolloReStock-Website/]
 
 ---
